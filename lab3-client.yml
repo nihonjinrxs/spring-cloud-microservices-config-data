@@ -2,7 +2,7 @@
 ---
 spring:
   application:
-    name: lucky-word
+    name: lab-3-client
   profiles:
     active: default
 lucky-word: Serendipity
