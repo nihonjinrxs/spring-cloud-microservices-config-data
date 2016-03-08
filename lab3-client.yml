@@ -1,4 +1,9 @@
 %YAML 1.2
 ---
+spring:
+  application:
+    name: lucky-word
+  profiles:
+    active: default
 lucky-word: Serendipity
 ...
